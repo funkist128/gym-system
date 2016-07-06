@@ -1,0 +1,15 @@
+body {
+	background-image: url("http://az616578.vo.msecnd.net/files/2015/12/06/6358503832381570891645596674_GYM.jpg");
+}
+.login-box {
+	top: 200px;
+	background-color: #dddddd;
+	border-radius: 20px;
+	opacity: 0.9;
+	padding: 20px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.btn {
+	float: right;
+}
